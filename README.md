@@ -13,3 +13,5 @@ c. Host (localhost) points at the local machine (127.0.0.1).
 d. Port (5672) the default port RabbitMQ listens on for AMQP traffic.
 
 By configuring both publisher and subscriber are both connected in the same RabbitMQ instance locally on port 5672 and using the same login. This lets messages from your publisher end up in the queue for subscriber.
+
+![alt text](image.png)
