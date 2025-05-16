@@ -14,4 +14,14 @@ d. Port (5672) the default port RabbitMQ listens on for AMQP traffic.
 
 By configuring both publisher and subscriber are both connected in the same RabbitMQ instance locally on port 5672 and using the same login. This lets messages from your publisher end up in the queue for subscriber.
 
+Before cargo run
+
 ![alt text](image.png)
+
+after cargo run in publisher and subscriber 
+
+![alt text](image-1.png)
+
+in the subscriber console:
+
+![alt text](image-2.png)
