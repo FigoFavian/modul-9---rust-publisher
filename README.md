@@ -18,10 +18,10 @@ Before cargo run
 
 ![alt text](image.png)
 
-after cargo run in publisher and subscriber 
-
-![alt text](image-1.png)
-
-in the subscriber console:
+in the subscriber console after cargo run:
 
 ![alt text](image-2.png)
+
+Monitoring the chart based on publisher after cargo run:
+
+![alt text](image-1.png)
